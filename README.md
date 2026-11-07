@@ -149,4 +149,3 @@ Python · FastAPI · Streamlit · PostgreSQL · SQLAlchemy · XLM-RoBERTa · Hug
 
 The source code for this project is not publicly available. The full project report (111 pages) is available on request.
 
-[⬅ Back to Portfolio](../../README.md)
